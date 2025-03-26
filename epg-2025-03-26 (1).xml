@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="Editor M3U PRO" generator-info-url="">
+  <channel id="BandSPInterior.br">
+    <display-name>Band SP Interior</display-name>
+    <icon src="https://i.imgur.com/7tcslXc.png" />
+  </channel>
+  <channel id="BandNews.br">
+    <display-name>BandNews</display-name>
+    <icon src="https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg" />
+  </channel>
+  <channel id="Band.br">
+    <display-name>Band</display-name>
+    <icon src="https://i.imgur.com/1r5T6Pw.png" />
+  </channel>
+  <channel id="TVBahia.br">
+    <display-name>TV Bahia</display-name>
+    <icon src="https://i.imgur.com/sJOrvHg.png" />
+  </channel>
+  <programme start="20250326T053345Z +0000" stop="20250326T073345Z +0000" channel="BandSPInterior.br">
+    <title>Programação Band SP Interior</title>
+    <desc>Programação gerada automaticamente pelo Editor M3U PRO</desc>
+  </programme>
+  <programme start="20250326T053345Z +0000" stop="20250326T073345Z +0000" channel="BandNews.br">
+    <title>Programação BandNews</title>
+    <desc>Programação gerada automaticamente pelo Editor M3U PRO</desc>
+  </programme>
+  <programme start="20250326T053345Z +0000" stop="20250326T073345Z +0000" channel="Band.br">
+    <title>Programação Band</title>
+    <desc>Programação gerada automaticamente pelo Editor M3U PRO</desc>
+  </programme>
+  <programme start="20250326T053345Z +0000" stop="20250326T073345Z +0000" channel="TVBahia.br">
+    <title>Programação TV Bahia</title>
+    <desc>Programação gerada automaticamente pelo Editor M3U PRO</desc>
+  </programme>
+</tv>
