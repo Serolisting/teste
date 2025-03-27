@@ -1,26 +1,11 @@
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="Editor M3U PRO" generator-info-url="">
-<channel id="TVAnhangueraGoiania.br">
-<display-name>TV Anhanguera Goiania</display-name>
-<icon src="https://i.imgur.com/kSfg6Zb.png"/>
-</channel>
-<channel id="Arte1.br">
-<display-name>Arte 1</display-name>
-<icon src="https://i.imgur.com/Ivnk7A6.png"/>
-</channel>
-<channel id="TVBahia.br">
-<display-name>TV Bahia</display-name>
-<icon src="https://i.imgur.com/sJOrvHg.png"/>
-</channel>
-<programme start="20250326T184535Z +0000" stop="20250326T204535Z +0000" channel="TVAnhangueraGoiania.br">
-<title>Programação TV Anhanguera Goiania</title>
-<desc>Programação gerada automaticamente pelo Editor M3U PRO</desc>
-</programme>
-<programme start="20250326T184535Z +0000" stop="20250326T204535Z +0000" channel="Arte1.br">
-<title>Programação Arte 1</title>
-<desc>Programação gerada automaticamente pelo Editor M3U PRO</desc>
-</programme>
-<programme start="20250326T184535Z +0000" stop="20250326T204535Z +0000" channel="TVBahia.br">
-<title>Programação TV Bahia</title>
-<desc>Programação gerada automaticamente pelo Editor M3U PRO</desc>
-</programme>
+  <channel id="Band.br">
+    <display-name>Band</display-name>
+    <icon src="https://i.imgur.com/1r5T6Pw.png" />
+  </channel>
+  <programme start="20250327T004651Z +0000" stop="20250327T024651Z +0000" channel="Band.br">
+    <title>Programação Band</title>
+    <desc>Programação gerada automaticamente pelo Editor M3U PRO</desc>
+  </programme>
 </tv>
