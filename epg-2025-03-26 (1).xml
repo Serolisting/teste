@@ -5,8 +5,16 @@
     <display-name>AMC</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" />
   </channel>
-  <programme start="20250327T011608Z +0000" stop="20250327T031608Z +0000" channel="AMC(Portuguese).br">
+  <channel id="BandNewsInternacional(Portuguese).br">
+    <display-name>Band News Internacional</display-name>
+    <icon src="https://listaiptvbrasil.com/logos/imagens/bandnews.png" />
+  </channel>
+  <programme start="20250327T013536Z +0000" stop="20250327T033536Z +0000" channel="AMC(Portuguese).br">
     <title>Programação AMC</title>
+    <desc>Programação gerada automaticamente pelo Editor M3U PRO</desc>
+  </programme>
+  <programme start="20250327T013536Z +0000" stop="20250327T033536Z +0000" channel="BandNewsInternacional(Portuguese).br">
+    <title>Programação Band News Internacional</title>
     <desc>Programação gerada automaticamente pelo Editor M3U PRO</desc>
   </programme>
 </tv>
