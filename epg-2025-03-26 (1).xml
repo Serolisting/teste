@@ -1,11 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="Editor M3U PRO" generator-info-url="">
-  <channel id="Band.br">
-    <display-name>Band</display-name>
-    <icon src="https://i.imgur.com/1r5T6Pw.png" />
+  <channel id="AMC(Portuguese).br">
+    <display-name>AMC</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" />
   </channel>
-  <programme start="20250327T004651Z +0000" stop="20250327T024651Z +0000" channel="Band.br">
-    <title>Programação Band</title>
+  <programme start="20250327T011608Z +0000" stop="20250327T031608Z +0000" channel="AMC(Portuguese).br">
+    <title>Programação AMC</title>
     <desc>Programação gerada automaticamente pelo Editor M3U PRO</desc>
   </programme>
 </tv>
